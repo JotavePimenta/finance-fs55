@@ -33,4 +33,4 @@ npm run dev
 '''
 
 Deploy:
-<a href: "https://finance-digital.vercel.app/">Link do deploy</a>
+<a href="https://finance-digital.vercel.app/">Link do deploy</a>
